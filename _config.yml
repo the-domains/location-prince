@@ -6,9 +6,10 @@ color:
   saturation: 0.1907347314991057
   rhythmicContrast: 0.9105720054358244
   brandColors:
-    - '#FFFFFF'
-    - '#00599C'
-    - '#706E70'
-    - '#4485B7'
-    - '#A9C7DE'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Location Prince
+title: Location Prince
