@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-08T18:05:40.285Z'
+datePublished: '2016-08-08T18:09:01.446Z'
 author: []
 via: {}
-dateModified: '2016-08-08T17:09:56.244Z'
+dateModified: '2016-08-08T18:09:01.231Z'
 title: >-
   Roulotte de chantier à vendre - Conteneur d'entreposage - Bureau de chantier à
   louer
 publisher: {}
 description: 'Roulotte de chantier : Projet Ilot Irving Québec'
-starred: false
 sourcePath: _posts/2016-08-08-roulotte-de-chantier-a-vendre-conteneur-dentreposage-bu.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
