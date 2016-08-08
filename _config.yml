@@ -11,6 +11,12 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.06205733399838209
+author:
+  name: Louis Dugal
+  email: louisdugal@locationprince.com
+  url: www.locationprince.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eb91438-b666-4de3-8ada-0ea2c330ce24.ai
 name: Location Prince
 title: Location Prince
 description: Roulottes de chantier - Conteneur d'entreposage
