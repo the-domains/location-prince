@@ -1,16 +1,16 @@
-typography_spectrum: 0.8504946965258569
+typography_spectrum: 0.8774316413328052
 color:
-  brandStrength: 0.43083024537190795
-  lightness: 0.8581991179380566
-  saturation: 0.1907347314991057
-  rhythmicContrast: 0.9105720054358244
+  brandStrength: 0.021432710578665137
+  lightness: 0.50422093574889
+  saturation: 0.9378982493653893
+  rhythmicContrast: 0.41671855119057
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.06205733399838209
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.10176246706396341
 author:
   name: Louis Dugal
   email: louisdugal@locationprince.com
